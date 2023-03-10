@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Deployed APP [Firebase](https://app-test-2fda2.web.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
